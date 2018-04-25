@@ -1,0 +1,8 @@
+*.iml
+*.iws
+*.ipr
+generated_source/
+generated/
+out/
+.idea
+.gradle/
